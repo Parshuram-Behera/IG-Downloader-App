@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IG Downloader</string>
+    <string name="viewGetOtp">Get Verification Code</string>
+    <string name="phone_Hint">Phone</string>
+    <string name="Username_Hint">Name</string>
+    <string name="Login_Box">Login</string>
+    <string name="Hint_Country_Code">+91</string>
+</resources>
