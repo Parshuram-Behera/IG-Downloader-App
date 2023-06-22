@@ -1,4 +1,4 @@
-# Final--PlayStore (IG Downloader)
+# IG Downloader : INSTAGRAM DOWNLOADING TOOL
 ☆ This Project Is Uploaded On Google Play Store ........
 ☆ This Is One Of My Practise Projects While Learning API's And 
   JSON Parsing,  Https Request Libraries. 
